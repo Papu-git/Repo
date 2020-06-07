@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0490-C258
+
+ Directory of C:\Users\papu\Desktop\My git project
+
+07\06\2020  16:02    <DIR>          .
+07\06\2020  16:02    <DIR>          ..
+07\06\2020  16:02                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  70,552,891,392 bytes free
